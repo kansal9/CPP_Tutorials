@@ -1,8 +1,7 @@
 ## C++
 ---
 
-> Authors: <font color='#f78c40'>Vanshika Kansal</font>
-> 
+> Author: <font color='#f78c40'>Vanshika Kansal</font>
 > Year: 2019  
 > Email: [vanshika.kansal@cea.fr](mailto:vanshika.kansal@cea.fr)
 
