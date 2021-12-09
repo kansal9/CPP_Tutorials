@@ -5,7 +5,7 @@
 
 > Year: 2019  
 
-> Email: [vanshika.kansal@cea.fr](mailto:vanshika.kansal@cea.fr)
+> Email: [vanshikakansal@gmail.com](mailto:vanshikakansal@gmail.com)
 
 Welcome to the C++ Tutorial GitHub Wiki Page!
 
